@@ -51,7 +51,7 @@ body{
 .navbar a:hover::before{
     width: 100%;
 }
-.song{
+.sign-in{
     margin: 100px;
     text-decoration: none;
     background-color: #E39E20;
@@ -60,7 +60,7 @@ body{
     padding: 7px 17px;
     border-radius: 5px;
 }
-.song:active{
+.sign-in:active{
     background-color: #bd8319;
 }
 .home{
